@@ -76,7 +76,7 @@ export default function App() {
             <p className="text-glitch-yellow text-[8px] leading-loose">
               BUILD_772058163289<br />
              AUTH: SYSTEM_SNAKE<br />
-STATUS: ONLINE
+             STATUS: ONLINE
             </p>
           </div>
         </motion.div>
